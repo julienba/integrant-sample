@@ -1,0 +1,3 @@
+{:database/state {}
+ ;:handler/app {:db #ig/ref :database/state}
+ :app/database {:db #ig/ref :database/state}}
